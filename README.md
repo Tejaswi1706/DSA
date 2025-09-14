@@ -1,1 +1,1 @@
-This folder my preparation for DSA from scratch.
+This folder contains my preparation for DSA from scratch.
